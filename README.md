@@ -1,2 +1,2 @@
 # dio-desafio-github
-Primeiro desafio do bootcamp Santander Mobile através da DIO. Criação do primeiro repositório no Github.
+Primeiro desafio do Santander Bootcamp Mobile Developer através da DIO. Criação do primeiro repositório no Github.
